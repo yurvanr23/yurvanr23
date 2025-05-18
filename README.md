@@ -1,18 +1,19 @@
 <h1 align="center"><img height="280" width="450" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/><br>
   Hi 👋, I'm Yurvan Ramjan<br>
+  <p align="center">Computer Science Honours Graduate</p>
 </h1>
 
-<p align="center">Computer Science Honours Graduate</p>
+###
 
 <h2 align="center">About Me:</h2>
 <p align="left">
-- (emoji) I am currently working on ...<br>
-- (emoji) I am currently learning Frontend Development<br>
-- (emoji) I am looking to collaborate on ...<br>
-- (emoji) I am looking for help with ...<br>
-- (emoji) Fun fact: ...<br>
-- (emoji) Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank"></a>
-- (emoji) How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank"></a>
+- 💼 I am currently working on ...<br>
+- 🌱 I am currently learning Frontend Development<br>
+- 🤝 I am looking to collaborate on ...<br>
+- 🆘 I am looking for help with ...<br>
+- 😄 Fun fact: ...<br>
+- 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank"></a>
+- 📬 How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank"></a>
 </p>
 
 ###
