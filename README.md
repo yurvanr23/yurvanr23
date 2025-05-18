@@ -42,7 +42,4 @@
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yurvanr23&show_icons=true&locale=en&layout=compact" alt="yurvanr23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurvanr23&show_icons=true&locale=en" alt="yurvanr23" /></p>
 ###
