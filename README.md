@@ -11,11 +11,11 @@
 
 <h2 align="center">About Me:</h2>
 <p align="left">
-- 💼 I am currently working on ...<br>
-- 🌱 I am currently learning Frontend Development<br>
-- 🤝 I am looking to collaborate on ...<br>
-- 🆘 I am looking for help with ...<br>
-- 😄 Fun fact: ...<br>
+- 💼 I am currently working on <b>...</b><br>
+- 🌱 I am currently learning <b>Frontend Development</b><br>
+- 🤝 I am looking to collaborate on <b>...</b><br>
+- 🆘 I am looking for help with <b>...</b><br>
+- 😄 Fun fact: <b>...</b><br>
 - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank">LinkedIn</a><br>
 - 📬 How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank">yurvanr23@gmail.com</a>
 </p>
