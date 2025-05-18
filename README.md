@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yurvanr23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurvanr23" height="30" width="40" /></a>
 <a href="https://kaggle.com/yurvanr23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yurvanr23" height="30" width="40" /></a>
+<a href="mailto:yurvanr23@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="yurvanr23@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
