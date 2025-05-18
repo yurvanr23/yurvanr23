@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurvanr23" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/yurvan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yurvanr23" height="30" width="40" /></a>
-<a href="mailto:yurvanr23@gmail.com" target="_blank"><img align="center" src="62bda0d7bafda8767a088b3e.png" alt="yurvanr23@gmail.com" height="30" width="50" /></a>
 <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="yurvanr23"  />
+<a href="mailto:yurvanr23@gmail.com" target="_blank"><img align="center" src="62bda0d7bafda8767a088b3e.png" alt="yurvanr23@gmail.com" height="30" width="70" /></a>
 </p>
 
 ###
