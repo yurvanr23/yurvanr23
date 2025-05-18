@@ -7,14 +7,14 @@
 ###
 
 <h2 align="center">About Me:</h2>
-<p align="center">
+<p align="left">
 - (emoji) I am currently working on ...<br>
 - (emoji) I am currently learning ...<br>
 - (emoji) I am looking to collaborate on ...<br>
 - (emoji) I am looking for help with ...<br>
 - (emoji) Fun fact: 
-- (emoji) Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank">
-- (emoji) How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank">
+- (emoji) Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank"></a>
+- (emoji) How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank"></a>
 </p>
 ###
 
