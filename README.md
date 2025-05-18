@@ -4,8 +4,6 @@
 
 <p align="center">Computer Science Honours Graduate</p>
 
-###
-
 <h2 align="center">About Me:</h2>
 <p align="left">
 - 💼 I am currently working on ...<br>
