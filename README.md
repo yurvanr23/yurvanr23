@@ -2,7 +2,7 @@
   Hi 👋, I'm Yurvan Ramjan<br>
 </h1>
 
-<h3>Computer Science Honours Graduate</h3>
+<h3 align="center">Computer Science Honours Graduate</h3>
 
 ###
 
