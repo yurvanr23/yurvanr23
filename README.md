@@ -1,7 +1,7 @@
 <h1 align="center"><img height="280" width="450" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/><br>
   Hi 👋, I'm Yurvan Ramjan<br>
+  <p align="center">Computer Science Honours Graduate</p>
 </h1>
-<p align="center">Computer Science Honours Graduate</p>
 
 ###
 
