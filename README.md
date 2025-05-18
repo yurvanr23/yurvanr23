@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Yurvan Ramjan and I'm a Computer Science Honours Graduate
+<h2 align="left">Hi 👋! My name is Yurvan Ramjan and I'm a Computer Science Honours Graduate</h2>
 <br>
-<img align="right" height="150" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/></h2>
+<img align="center" height="150" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/>
 
 ###
 
