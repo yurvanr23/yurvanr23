@@ -1,7 +1,8 @@
 <h1 align="center"><img height="280" width="450" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/><br>
   Hi 👋, I'm Yurvan Ramjan<br>
-  <p align="center" style="font-size:14px; margin-top: 5px;">Computer Science Honours Graduate</p>
 </h1>
+
+<p align="center">Computer Science Honours Graduate</p>
 
 ###
 
@@ -15,8 +16,6 @@
 - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank"></a><br>
 - 📬 How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank"></a>
 </p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yurvanr23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
