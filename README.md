@@ -1,5 +1,5 @@
 <h1 align="center">Hi<br>
-  <img height="150" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/><br>
+  <img height="300" src="https://gifdb.com/images/high/spider-man-cartoon-waving-swinging-spi8s1ckniuixtzr.gif"/><br>
   My name is Yurvan Ramjan and I'm a Computer Science Honours Graduate</h1>
 
 ###
