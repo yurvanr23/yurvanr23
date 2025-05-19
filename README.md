@@ -13,7 +13,7 @@
 <p align="left">
 - 💼 I am currently working on <b>...</b><br>
 - 🌱 I am currently learning <b>Frontend Development</b><br>
-- 🤝 I am looking to collaborate on <b>...</b><br>
+- 🤝 I am looking to collaborate on <b>tasks that can help me learn more</b><br>
 - 🆘 I am looking for help with <b>...</b><br>
 - 😄 Fun fact: <b>...</b><br>
 - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank">LinkedIn</a><br>
