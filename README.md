@@ -21,7 +21,7 @@
 </p>
 
 <!-- <h2 align="center">Connect with me:</h2> -->
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurvanr23" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/yurvan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yurvanr23" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="yurvanr23"  />
