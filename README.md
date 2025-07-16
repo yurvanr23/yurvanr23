@@ -36,7 +36,7 @@
 <div align="center">
    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurvanr23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  /></p> 
 <!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurvanr23&show_icons=true&theme=dark&locale=en" alt="yurvanr23" /></p> -->
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurvan23&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurvanr23&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"/></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yurvanr23&theme=dark" alt="yurvanr23"/></p>
 </div>
