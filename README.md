@@ -14,7 +14,7 @@
 - 💼 I am currently working on a <b>SmartRecall AI (Multimodal Recall & Risk Intelligence System)</b><br>
 - 🌱 I am currently learning <b>Frontend Development</b><br>
 - 🤝 I am looking to collaborate on <b>tasks that can help me learn more</b><br>
-- 🆘 I am looking for help with <b>...</b><br>
+- 🆘 I am looking for help with <b>getting a job</b>💀😭<br>
 - 😄 Fun fact: <b>I enjoy playing soulsbourne games!</b><br>
 - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank">LinkedIn</a><br>
 - 📬 How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank">yurvanr23@gmail.com</a>
