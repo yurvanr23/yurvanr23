@@ -11,13 +11,14 @@
 
 <h2 align="center">About Me:</h2>
 <p align="left">
-- 💼 I am currently working on a <b>SmartRecall AI (Multimodal Recall & Risk Intelligence System)</b><br>
-- 🌱 I am currently learning <b>Frontend Development</b><br>
-- 🤝 I am looking to collaborate on <b>tasks that can help me learn more</b><br>
-- 🆘 I am looking for help with <b>getting a job</b>💀😭<br>
-- 😄 Fun fact: <b>I enjoy playing soulsbourne games!</b><br>
-- 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank">LinkedIn</a><br>
-- 📬 How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank">yurvanr23@gmail.com</a>
+  - 💼 I am currently working on a <b>FIFA World Cup 2026 Project</b><br>
+  - 🌱 I am currently learning <b>AI Engineering Skills</b><br>
+  - 🤝 I am looking to collaborate on <b>tasks that can help me learn more</b><br>
+  - 🆘 I am looking for help with <b>getting a job</b>💀😭<br>
+  - 😄 Favourite Game: <b>The Last of Us Part II</b><br>
+  <br>
+  - 📄 Know about my experiences: <a href="https://www.linkedin.com/in/yurvan-ramjan/" target="blank">LinkedIn</a><br>
+  - 📬 How to reach me: <a href="mailto:yurvanr23@gmail.com" target="_blank">yurvanr23@gmail.com</a>
 </p>
 
 <!-- <h2 align="center">Connect with me:</h2> -->
